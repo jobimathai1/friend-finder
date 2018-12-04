@@ -1,0 +1,27 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "Matchmaking app",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.6",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jobimathai1/friend-finder.git"
+  },
+  "author": "Jobi Mathai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jobimathai1/friend-finder/issues"
+  },
+  "homepage": "https://github.com/jobimathai1/friend-finder#readme"
+}
